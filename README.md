@@ -22,4 +22,4 @@
 	<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" /> </a>
 	<a href="#"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" /> </a>
 </p>
-<p><img align="center" src="https://github.com/kenny577/github-stats/blob/master/generated/languages.svg?" alt="langs1" /><img align="center" src="https://github.com/kenny577/github-stats/blob/master/generated/overview.svg?" alt="overview" /></p> <img align="center" src="https://github.com/brenoepics/github-stats/blob/actions_branch/generated_images/github-snake.svg" />
+<p><img align="center" src="https://github.com/devRott/github-stats/blob/master/generated/languages.svg?" alt="langs1" /><img align="center" src="https://github.com/devRott/github-stats/blob/master/generated/overview.svg?" alt="overview" /></p> <img align="center" src="https://github.com/brenoepics/github-stats/blob/actions_branch/generated_images/github-snake.svg" />
