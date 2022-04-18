@@ -1,1 +1,1 @@
-![snake gif](https://github.com/devRott/devRott/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://raw.githubusercontent.com/brenoepics/github-stats/actions_branch/generated_images/github-snake.svg)
