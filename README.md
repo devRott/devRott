@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>
 <h1 align="center">I'm Rott</h1>
-<h3 align="center">Web & Discor Developer </h3>
+<h3 align="center">Web & Discord Developer </h3>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 	<a href="https://laravel.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" /> </a>
